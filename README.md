@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Trần Nguyên Tuấn @pynamic
 - 👀 I’m interested in cryptocurrency
-- 🌱 I’m currently learning C#,PHP,HTML
+- 🌱 I’m currently learning C#,PHP,HTML,Java
 - 💞️ I make money and do whatever I like by myself
 - 📫 fb.com/pynamic
 
